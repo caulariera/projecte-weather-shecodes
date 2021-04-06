@@ -23,9 +23,11 @@ li {
   line-height: 1;
   list-style: none;
 }
-
+.container {
+  border-color: rgb(185, 14, 14);
+}
 .weather-app {
-  border: 1px solid #2ec78c;
+  border: 1px solid #000000;
   padding: 15px;
   margin: 20px auto;
   border-radius: 10px;
